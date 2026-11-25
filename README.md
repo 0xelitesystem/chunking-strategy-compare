@@ -85,6 +85,6 @@ MIT.
 
 ## Related
 
-- [embedding-cost-estimator](https://github.com/0xelitesystem/embedding-cost-estimator): cost matrix across providers
+- [embedding-cost-compare](https://github.com/0xelitesystem/embedding-cost-compare): cost matrix across providers
 - [rag-evaluation-rubrics](https://github.com/0xelitesystem/rag-evaluation-rubrics): measure retrieval quality
 - [prompt-cost-across-models](https://github.com/0xelitesystem/prompt-cost-across-models): per-call cost estimator
