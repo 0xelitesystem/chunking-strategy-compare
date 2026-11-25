@@ -1,8 +1,8 @@
-# rag-chunk-visualizer
+# chunking-strategy-compare
 
 See how four different chunking strategies split your text. Side by side. With overlap highlighted.
 
-**Live demo:** https://0xelitesystem.github.io/rag-chunk-visualizer/
+**Live demo:** https://0xelitesystem.github.io/chunking-strategy-compare/
 
 Browser-only, single HTML file.
 
@@ -65,8 +65,8 @@ Everything runs in your browser. The page makes no network requests, and the tex
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/rag-chunk-visualizer
-cd rag-chunk-visualizer
+git clone https://github.com/0xelitesystem/chunking-strategy-compare
+cd chunking-strategy-compare
 ```
 
 Open `index.html` in a browser, or serve the folder with `python -m http.server` and visit http://localhost:8000.
